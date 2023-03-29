@@ -1,0 +1,3 @@
+APIKey = "YOUR_TG_API_KEY"
+SubscribersFile = "./subscribers.txt"
+NotifyDuration = "30s"
